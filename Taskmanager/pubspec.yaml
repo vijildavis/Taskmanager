@@ -1,0 +1,11 @@
+name: testapp
+version: 1.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  parse_server_sdk: ^6.3.0
+assets:
+    - web/
+environment:
+  sdk: '>=2.12.0 <4.0.0'
